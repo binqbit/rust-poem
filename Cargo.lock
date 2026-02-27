@@ -3,5 +3,9 @@
 version = 4
 
 [[package]]
-name = "rust-poem"
+name = "progress"
+version = "1.0.0"
+
+[[package]]
+name = "vibecoding"
 version = "1.0.0"
